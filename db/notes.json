@@ -1,14 +1,19 @@
 {
   "notes": [
     {
-      "title": "Joseph",
-      "text": "Teacher",
-      "id": 0
+      "id": "0",
+      "title": "Test Title",
+      "text": "Test text"
     },
     {
-      "title": "Son",
+      "title": "My Wife",
+      "text": "Holli",
+      "id": "1"
+    },
+    {
+      "title": "My Son",
       "text": "Jack",
-      "id": 1
+      "id": "2"
     }
   ]
 }
